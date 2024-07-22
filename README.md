@@ -22,11 +22,7 @@
 
 ## View of the project
 
-<!-- <img src="./public/Images/video.gif" width="1000px"/> -->
-<video width="1000" controls>
-  <source src="./public/Images/video.gif.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="./public/Images/todoList2.gif" width="1000px"/>
 
 ## Getting Started
 
