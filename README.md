@@ -2,8 +2,6 @@
 
 - Build a beautiful Todo-List with animated background in React Js and especially use the react-redux package with redux
 
-- The purpose of the project coding was to work with the React-Redux package
-
 > ### Languages
 >
 > > ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=5BCAF7&random=false&width=100&height=25&lines=React+Js)
