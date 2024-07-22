@@ -22,7 +22,11 @@
 
 ## View of the project
 
-<img src="./public/Images/video.gif" width="1000px"/>
+<!-- <img src="./public/Images/video.gif" width="1000px"/> -->
+<video width="1000" controls>
+  <source src="./public/Images/video.gif.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Getting Started
 
@@ -73,6 +77,6 @@ Currently, two official plugins are available:
 
 > ### Social Network
 >
-> [<img src="./public/Images/github.png" width="30">](https://github.com/khadem-mh) > [<img src="./public/Images/linkedin.png" width="30">](https://www.linkedin.com/in/khadem-mh/) > [<img src="./public/Images/telegram.png" width="30">](https://t.me/mhkhadem) > [<img src="./public/Images/whatsapp.png" width="30">](https://wa.me/989031335939)
+> [<img src="./public/Images/github.png" width="30">](https://github.com/MuhammadZawar11681) > [<img src="./public/Images/linkedin.png" width="30">](https://www.linkedin.com/in/muhammad-zawar-51212a233/) > [<img src="./public/Images/whatsapp.png" width="30">](https://wa.me/923179889883)
 
 <!-- > [<img src="./public/Images/wakatimesvg.png" width="130">](https://wakatime.com/@khadem_mh) -->
