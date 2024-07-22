@@ -22,7 +22,7 @@
 
 ## View of the project
 
-<img src="./public/Images/video.gif" width="1000px"/>
+<img src="./public/Images/todolist.gif" width="1000px"/>
 
 ## Getting Started
 
